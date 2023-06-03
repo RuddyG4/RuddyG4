@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RuddyG4/](https://github.com/RuddyG4/) (Here)
 
-- 💬 Ask me about **Java, PHP (and laravel framework), MySQL HTML and CSS**
+- 💬 Ask me about **Java, PHP (and laravel framework), MySQL, HTML and CSS**
 
 - 📫 How to reach me **ruddygonzqh@gmail.com**
 
