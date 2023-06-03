@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm R. Gonzalo</h1>
 <h3 align="center">A passionate Systems engineering student eager to grow in the world of software development</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** (FreeCodeCamp)
 
-- 👨‍💻 All of my projects are available at [https://github.com/RuddyG4/](https://github.com/RuddyG4/)
+- 👨‍💻 All of my projects are available at [https://github.com/RuddyG4/](https://github.com/RuddyG4/) (Here)
 
-- 💬 Ask me about **Java, php, laravel, html and css**
+- 💬 Ask me about **Java, PHP (and laravel framework), MySQL HTML and CSS**
 
 - 📫 How to reach me **ruddygonzqh@gmail.com**
 
