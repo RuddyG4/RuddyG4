@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm R. Gonzalo</h1>
+<h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate Systems engineering student eager to grow in the world of software development</h3>
 
 - 🌱 I’m currently learning **Javascript** (FreeCodeCamp)
