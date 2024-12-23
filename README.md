@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h4 align="center"> I'm a dedicated Systems Engineering student with a passion for software development. In my exploration, I've developed extensive expertise in Laravel, proficiency in SQL and Vue.js. I enjoy implementing best practices and offering high-quality software solutions.
+<h4 align="center"> I'm a dedicated Systems Engineering with a passion for software development. In my exploration, I've developed extensive expertise in Laravel, proficiency in SQL and Vue.js. I enjoy implementing best practices and offering high-quality software solutions.
   <br />
 I'm currently interested on learning how to integrate A.I. services.
 </h4>
